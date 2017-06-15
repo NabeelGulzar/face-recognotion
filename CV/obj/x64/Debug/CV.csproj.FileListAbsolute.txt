@@ -1,0 +1,44 @@
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\CV.exe.config
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\CV.exe
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\CV.pdb
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.UI.dll
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.UI.GL.dll
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.World.dll
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\ZedGraph.dll
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.UI.xml
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.UI.GL.xml
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\bin\x64\Debug\Emgu.CV.World.xml
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\obj\x64\Debug\CV.exe
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\obj\x64\Debug\CV.pdb
+c:\users\nabeel\documents\visual studio 2013\Projects\CV\obj\x64\Debug\CV.csprojResolveAssemblyReference.cache
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\CV.exe.config
+C:\Users\Umer\Downloads\Slack\New CV\CV\obj\x64\Debug\CV.exe
+C:\Users\Umer\Downloads\Slack\New CV\CV\obj\x64\Debug\CV.pdb
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\CV.exe
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\CV.pdb
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\ZedGraph.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\ZedGraph.xml
+C:\Users\Umer\Downloads\Slack\New CV\CV\bin\x64\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Umer\Downloads\Slack\New CV\CV\obj\x64\Debug\CV.csprojResolveAssemblyReference.cache
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\CV.exe.config
+C:\Users\Nabeel\Downloads\CV\obj\x64\Debug\CV.exe
+C:\Users\Nabeel\Downloads\CV\obj\x64\Debug\CV.pdb
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\CV.exe
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\CV.pdb
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\ZedGraph.dll
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Nabeel\Downloads\CV\bin\x64\Debug\Emgu.CV.World.xml
+C:\Users\Nabeel\Downloads\CV\obj\x64\Debug\CV.csprojResolveAssemblyReference.cache
